@@ -80,3 +80,9 @@ selection_vector
 
 # Select from poker_vector these days
 poker_winning_days <- poker_vector[selection_vector]
+
+# Which days did you make money on roulette?
+selection_vector <-roulette_vector>0
+
+# Select from roulette_vector these days
+roulette_winning_days <- roulette_vector[selection_vector]
